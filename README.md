@@ -24,3 +24,4 @@ This project involves:
 **Data Modeling:** Developing fact and dimension tables optimized for analytical queries.
 
 **Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
+
